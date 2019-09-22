@@ -63,7 +63,6 @@ img:hover {
 .med {
   width: 60%;
   position: relative;
-  display: flex;
   grid-row-end: 2;
 }
 
