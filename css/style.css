@@ -54,7 +54,7 @@ img:hover {
 
 /* create your tile classes! we recommend .small .med .large */
 .small {
-  max-height: 30%;
+  max-height: 10%;
 }
 
 .med {
