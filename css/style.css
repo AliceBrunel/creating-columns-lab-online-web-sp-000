@@ -58,14 +58,14 @@ img:hover {
   width: 30%;
   position: relative;
   display: flex;
-  grid-row-end: span 1;
+  grid-row-end: 1;
 }
 
 .med {
   width: 60%;
   position: relative;
   display: flex;
-  grid-row-end: span 2;
+  grid-row-end: 2;
 }
 
 .large {
@@ -73,5 +73,5 @@ img:hover {
   display: flex;
   width: 100%;
   height: 100%;
-  grid-row-end: span 3;
+  grid-row-end: 3;
 }
