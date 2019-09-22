@@ -53,8 +53,7 @@ img:hover {
 }
 
 /* create your tile classes! we recommend .small .med .large */
-.small {
-  column-width: 30%;
+.small {%;
 }
 
 .med {
