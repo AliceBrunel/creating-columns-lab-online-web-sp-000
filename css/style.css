@@ -64,6 +64,7 @@ img:hover {
   width: 60%;
   position: relative;
   display: flex;
+  grid-row-end: span 2;
 }
 
 .large {
