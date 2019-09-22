@@ -56,7 +56,6 @@ img:hover {
 .small {
   width: 30%;
   position: relative;
-  grid-row-end: 1;
 }
 
 .med {
